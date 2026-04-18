@@ -31,7 +31,18 @@ The dataset includes:
 
 ---
 
+## 📌 Dashboard Screenshot
+
+<img width="1467" height="830" alt="image" src="https://github.com/user-attachments/assets/f6d60264-bfd1-4ec8-80cc-bafc47dfdb60" />
+<img width="1458" height="830" alt="image" src="https://github.com/user-attachments/assets/943095b9-7c75-489c-9a3f-64966fc59698" />
+
 ## 📌 Key Insights
+*Identify high-spending categories
+*Detect unusual spending patterns
+*Monitor credit utilization to avoid overspending
+*Improve budgeting strategies
+
+
 
 * Identify high-spending categories
 * Detect unusual spending patterns
