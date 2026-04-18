@@ -37,10 +37,7 @@ The dataset includes:
 <img width="1458" height="830" alt="image" src="https://github.com/user-attachments/assets/943095b9-7c75-489c-9a3f-64966fc59698" />
 
 ## 📌 Key Insights
-*Identify high-spending categories
-*Detect unusual spending patterns
-*Monitor credit utilization to avoid overspending
-*Improve budgeting strategies
+
 
 
 
